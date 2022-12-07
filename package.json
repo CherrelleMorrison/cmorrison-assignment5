@@ -1,0 +1,23 @@
+{
+  "name": "cmorrison-assignment5",
+  "version": "1.0.0",
+  "description": "Cypress automation assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CherrelleMorrison/cmorrison-assignment5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CherrelleMorrison/cmorrison-assignment5/issues"
+  },
+  "homepage": "https://github.com/CherrelleMorrison/cmorrison-assignment5#readme",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
